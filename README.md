@@ -45,12 +45,16 @@ wavファイルから読み取ったサンプルレートです。
 ### スクリプト
 * am.lua
   AM変調を行います。
+* data.lua
+  テキストデータからwavデータを生成します。
 * dsb.lua
   DSB変調を行います。
 * echo.lua
   音声をずらして重ねます。
 * fm.lua
   FM変調を行います。
+* hourakusenkenpa.lua
+  包絡線検波器です。
 * lpf.lua
   抵抗両終端型ローパスフィルタ回路のシミュレーションを行います。
 * pam.lua
